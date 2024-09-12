@@ -1,5 +1,5 @@
 # LAA_ScriptCompleto
-# Lanzar script usando vtk_env, disponible en la carpeta Environments
+# Lanzar script usando vtk_env, disponible en la carpeta Environmentsgo
 #01.LAA-Scripting - Obtención del Mallado
 
 # Obtención de los puntos sobre el mallado
